@@ -23,7 +23,7 @@ Two biomedical prediction tasks in which each patient contributes repeated voice
 ```bash
 # Set ADAPTER_DIR as described in the data repository README.
 export PYTHONPATH="$ADAPTER_DIR"
-uvx --from harbor==0.23.0 harbor run -c data/penguinharness-benchmark-biomedical-repeated-measures/job.yaml --job-name biomedical-repeated-measures-attempt-1 -y
+uvx --from harbor==0.23.0 harbor run -c penguinharness-benchmark-biomedical-repeated-measures/job.yaml --job-name biomedical-repeated-measures-attempt-1 -y
 ```
 
 ## Licence

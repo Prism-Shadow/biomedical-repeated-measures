@@ -2,7 +2,7 @@
 
 Task data, environments and verifiers for the following PenguinHarness packages.
 
-- [biomedical-repeated-measures](data/penguinharness-benchmark-biomedical-repeated-measures/README.md) · [package](https://github.com/Prism-Shadow/penguin-harness-benchmark/tree/main/packages/penguinharness-benchmark-biomedical-repeated-measures)
+- [biomedical-repeated-measures](penguinharness-benchmark-biomedical-repeated-measures/README.md) · [package](https://github.com/Prism-Shadow/penguin-harness-benchmark/tree/main/packages/penguinharness-benchmark-biomedical-repeated-measures)
 
 ## Running a task (for agents)
 
